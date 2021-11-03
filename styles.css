@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+}
+
+body {
+border: 2px solid black;
+  width: 100vw;
+}
+
+nav {
+  border: 2px solid red;
+  height: 20vh;
+
+}
+
+h1 {
+  border: 2px solid rgb(251, 230, 0);
+  height: 10vh;
+}
+
+.container {
+  border: 2px dashed green;
+  height: 50vh;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 50% 50%;
+  grid-gap: 10px;
+}
+
+.box {
+  border: 1px solid black;
+  grid-column: auto;
+}
+
+.box1 {
+  background-color: red;
+}
+
+.box2 {
+  background-color: orange;
+}
+
+.box3 {
+  background-color: yellow;
+}
+
+.box4 {
+  background-color: green;
+}
+
+.box5 {
+  background-color: blue;
+}
+
+.box6 {
+  background-color: purple;
+}
+
+.box7 {
+  background-color: salmon;
+}
+
+.box8 {
+  background-color: violet;
+}
