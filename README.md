@@ -1,2 +1,2 @@
 # static-comp
-Static comp practice for mop 2
+Static comp practice for mod 2
